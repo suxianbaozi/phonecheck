@@ -1,0 +1,19 @@
+{
+  "name": "pingansec-brandua",
+  "version": "1.0.9",
+  "description": "通过ua获取手机品牌",
+  "main": "./dist/brandua.min.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "地址选择器"
+  ],
+  "author": "wangqs",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
