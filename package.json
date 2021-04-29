@@ -1,6 +1,6 @@
 {
   "name": "pingansec-brandua",
-  "version": "1.0.9",
+  "version": "1.0.0",
   "description": "通过ua获取手机品牌",
   "main": "./dist/brandua.min.js",
   "scripts": {
